@@ -1,0 +1,12 @@
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/bin/Debug/netcoreapp3.1/ASP.NET-Excercise.deps.json
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/bin/Debug/netcoreapp3.1/ASP.NET-Excercise.runtimeconfig.json
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/bin/Debug/netcoreapp3.1/ASP.NET-Excercise.runtimeconfig.dev.json
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/bin/Debug/netcoreapp3.1/ASP.NET-Excercise.dll
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/bin/Debug/netcoreapp3.1/ASP.NET-Excercise.pdb
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.csprojAssemblyReference.cache
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.AssemblyInfo.cs
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.csproj.CoreCompileInputs.cache
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.dll
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.pdb
+/Users/Macbook/Projects/ASP.NET-Excercise/ASP.NET-Excercise/obj/Debug/netcoreapp3.1/ASP.NET-Excercise.genruntimeconfig.cache
